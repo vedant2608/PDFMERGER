@@ -1,2 +1,2 @@
-# PDFMERGER
-The PDF merger using python
+# Water mark adder
+The water mark adder using python
